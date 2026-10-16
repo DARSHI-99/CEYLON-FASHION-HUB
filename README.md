@@ -1,2 +1,23 @@
-# CEYLON-FASHION-HUB
-Ceylon Fashion Hubは、スリランカのファッション、バティックアート、刺繍、そして高品質な衣料品を世界に発信するために制作したWebプラットフォームです。私は日本でITを学ぶ学生として、日本で得た知識と経験を活かし、日本とスリランカの両国に貢献したいと考えています。 このプロジェクトは、小規模事業者や地域ブランド、そして優れた技術を持つ職人たちがより多くの人々に認知され、国際市場とつながることを支援することを目的としています。私はテクノロジーとイノベーションを通じて、日本とスリランカを結ぶ架け橋となり、新たな成長と協力の機会を創出したいと考えています。
+# 🌸 Ceylon Fashion Hub
+
+### Sri Lankan Fashion Website
+
+Ceylon Fashion Hub is a web project created to introduce Sri Lankan fashion, batik art, embroidery, and quality clothing to the world.
+
+## 🌐 View Live Website
+
+👉 **[Click here to visit Ceylon Fashion Hub](https://darshi-99.github.io/CEYLON-FASHION-HUB/)**
+
+## 💻 Technologies Used
+
+- HTML
+- CSS
+- Java
+
+## 🎯 Project Purpose
+
+This project aims to promote Sri Lankan fashion and support small businesses and local artisans through technology.
+
+---
+
+**Developed by Darshi**
