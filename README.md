@@ -1,4 +1,4 @@
-# 🌸 Ceylon Fashion Hub
+#  Ceylon Fashion Hub
 
 ### Sri Lankan Fashion Website
 
